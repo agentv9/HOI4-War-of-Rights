@@ -1,0 +1,24 @@
+
+state={
+	id=420
+	name="STATE_420"
+	
+	history={
+		owner = SME
+		1936.1.2 = {
+			owner = USA
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = SME
+	}
+	
+	provinces={
+		2655 2711 
+	}
+	manpower=120000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
