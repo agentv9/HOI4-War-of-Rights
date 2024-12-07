@@ -6,7 +6,7 @@ state={
 	}
 	
 	history={
-		owner = SMA
+		owner = UIN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -15,10 +15,10 @@ state={
 				naval_base = 4
 			}
 		}
-		add_core_of = SMA
-		add_core_of = SNY
+		add_core_of = UIN
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 	

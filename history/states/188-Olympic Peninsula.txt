@@ -7,15 +7,15 @@ state={
 	}
 
 	history={
-		owner = SWA
+		owner = UIN
 		buildings = {
 			infrastructure = 1
 			air_base = 7
 			dockyard = 1
 		}
-		add_core_of = SWA
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		#add_claim_by = PCA
 	

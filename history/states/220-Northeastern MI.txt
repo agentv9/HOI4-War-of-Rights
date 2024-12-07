@@ -7,15 +7,15 @@ state={
 	}
 
 	history={
-		owner = SMI
+		owner = UIN
 		buildings = {
 			infrastructure = 1
 			dockyard = 1
 
 		}
-		add_core_of = SMI
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		victory_points = {
 			2610 4

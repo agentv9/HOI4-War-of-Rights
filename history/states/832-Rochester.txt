@@ -5,16 +5,16 @@ state={
 		tungsten = 3.500
 	} 
 	history={
-		owner = SMN
+		owner = UIN
 		1936.1.2={
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			arms_factory = 1
 		}
-		add_core_of = SMN
+		add_core_of = UIN
 		victory_points = {
 			2540 10 
 		}

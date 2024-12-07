@@ -57,7 +57,7 @@ political_actions = {
 			limit = {
 				has_dlc = "By Blood Alone"
 			}
-			NOT = { original_tag = SWI }
+			NOT = { original_tag = UIN }
 			NOT = { has_country_flag = SWI_can_use_political_actions }
 		}
 		if = {
@@ -101,7 +101,7 @@ democratic_on_the_rise = {
 			AND = {
 				has_dlc = "By Blood Alone"
 				OR = {
-					original_tag = SWI
+					original_tag = UIN
 					original_tag = ITA
 				}
 			}

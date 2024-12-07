@@ -4,7 +4,7 @@ state={
 	name="STATE_14"
 
 	history={
-		owner = SFL
+		owner = CON
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -15,13 +15,13 @@ state={
 			}
 
 		}
-		add_core_of = SFL
+		add_core_of = CON
 
 		victory_points = {
 			1017 25 
 		}
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 

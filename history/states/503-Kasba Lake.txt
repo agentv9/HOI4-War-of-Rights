@@ -9,12 +9,12 @@ state={
 	}
 
 	history={
-		owner = PNT
+		owner = BEM
 		buildings = {
 			infrastructure = 0
 
 		}
-		add_core_of = PNT
+		add_core_of = BEM
 		1936.1.2 = {
 			owner = CAN
 		}

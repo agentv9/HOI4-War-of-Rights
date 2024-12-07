@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = SKY
+		owner = UIN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
@@ -19,9 +19,9 @@ state={
 			}
 
 		}
-		add_core_of = SKY
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
 		victory_points = {

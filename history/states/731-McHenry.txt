@@ -4,11 +4,11 @@ state={
 	name="STATE_731"
 
 	history={
-		owner = SIL
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SIL
+		add_core_of = UIN
 		# add_core_of = PIL
 		victory_points = {
 			7833 2

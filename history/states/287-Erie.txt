@@ -5,9 +5,9 @@ state = {
 		oil = 7
 	}
 	history = {
-		owner = SPA
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 4
@@ -17,7 +17,7 @@ state = {
 				naval_base = 3
 			}
 		}
-		add_core_of = SPA
+		add_core_of = UIN
 		victory_points = {
 			3644
 			10

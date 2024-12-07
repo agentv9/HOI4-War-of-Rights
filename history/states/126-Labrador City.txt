@@ -7,14 +7,14 @@ state={
 	}
 
 	history={
-		owner = PNL
+		owner = BEM
 		buildings = {
 			infrastructure = 1
 			air_base = 1
 
 		}
-		add_core_of = PNL
-		add_core_of = LAB
+		add_core_of = BEM
+		 
 		1936.1.2 = {
 			owner = CAN
 		}

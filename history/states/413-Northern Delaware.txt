@@ -8,9 +8,9 @@ state={
 	}
 
 	history={
-		owner = SDE
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
@@ -28,7 +28,7 @@ state={
 			3427 15
 		}
 
-		add_core_of = SDE
+		add_core_of = UIN
 
 	}
 

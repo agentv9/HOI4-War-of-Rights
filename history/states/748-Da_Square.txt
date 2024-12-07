@@ -7,12 +7,12 @@ state={
 	}
 
 	history={
-		owner = SCO
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SCO
-		add_claim_by = SNE
+		add_core_of = UIN
+		add_claim_by = UIN
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

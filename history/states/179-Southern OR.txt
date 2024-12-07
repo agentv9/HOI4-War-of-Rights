@@ -5,11 +5,11 @@ state={
 		tungsten=8.000
 	}
 	history={
-		owner = SOR
-		add_core_of = SOR
-		add_core_of = JEF
+		owner = UIN
+		add_core_of = UIN
+		 
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
@@ -19,9 +19,9 @@ state={
 			2355 10
                 }
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_claim_by = SRO
+		 
 	}
 	provinces={
 		69 85 172 2355 2598 

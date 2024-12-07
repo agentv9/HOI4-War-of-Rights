@@ -8,9 +8,9 @@ state={
 	}
 
 	history={
-		owner = SNC
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 1
@@ -28,7 +28,7 @@ state={
 		victory_points = {
 			1553 1 
 		}
-		add_core_of = SNC
+		add_core_of = CON
 
 	}
 

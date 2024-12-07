@@ -5,16 +5,16 @@ state={
 		steel=48.000
 	}
 	history={
-		owner = SNE
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 			arms_factory = 1
 		}
-		add_core_of = SNE
+		add_core_of = UIN
 		victory_points = {
 			2229 10
 		}

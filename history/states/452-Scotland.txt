@@ -6,8 +6,8 @@ state={
 		2569 
 	}
 	history = {
-		owner = GAY
-		add_core_of = GAY
+		owner = DEN
+		add_core_of = DEN
 		buildings = {
 			infrastructure = 1
 		}

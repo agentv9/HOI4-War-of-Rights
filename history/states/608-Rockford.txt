@@ -4,8 +4,8 @@ state={
 	name="STATE_608"
 
 	history={
-		owner = SIL
-		add_core_of = SIL
+		owner = UIN
+		add_core_of = UIN
 		victory_points = {
 			7819 5
 		}
@@ -22,7 +22,7 @@ state={
 
 		}
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 
 	}

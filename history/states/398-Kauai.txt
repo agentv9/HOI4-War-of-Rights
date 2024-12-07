@@ -9,7 +9,7 @@ state={
 	history={
 		owner = SHI
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			air_base = 2

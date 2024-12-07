@@ -5,9 +5,9 @@ state={
 		steel=24
 	}
 	history={
-		owner = SRO
-		add_core_of = SRO
-		add_claim_by = SOR
+		owner = UIN
+		 
+		add_claim_by = UIN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
@@ -17,9 +17,7 @@ state={
 		victory_points = {
 			193 30
 		}
-		1936.1.2 = {
-			owner = USA
-		}
+		 
 	}
 	provinces={
 		75 76 193 

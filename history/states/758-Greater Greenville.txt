@@ -11,11 +11,11 @@ state={
 	}
 
 	history = {
-		owner = SMS
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SMS
+		add_core_of = CON
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

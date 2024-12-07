@@ -4,7 +4,7 @@ state={
 	name="STATE_33"
 
 	history={
-		owner = PON
+		owner = BEM
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -12,7 +12,7 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = PON
+		add_core_of = BEM
 		1936.1.2 = {
 			owner = CAN
 		}

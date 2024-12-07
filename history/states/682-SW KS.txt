@@ -5,14 +5,14 @@ state={
 		1734 4869 7466 7467 7468 7469 7470 7474 7475 7477 7478 
 	}
 	history={
-		owner = SKS
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = SKS
+		add_core_of = UIN
 	}
 	
 	manpower=63221

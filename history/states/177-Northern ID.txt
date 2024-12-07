@@ -7,17 +7,17 @@ state={
 	}
 
 	history={
-		owner = SID
+		owner = UIN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
 			arms_factory = 0
 			air_base = 3
 		}
-		add_core_of = SID
-		add_core_of = LIN
+		add_core_of = UIN
+		 
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		#add_claim_by = PCA
 		victory_points = { #Moscow

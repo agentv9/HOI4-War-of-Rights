@@ -4,9 +4,9 @@ state={
 	name="STATE_290"
 
 	history={
-		owner = SNJ
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
 		buildings = {
@@ -15,7 +15,7 @@ state={
 			air_base = 2
 
 		}
-		add_core_of = SNJ
+		add_core_of = UIN
 		victory_points = {
 			3430 25 
 		}

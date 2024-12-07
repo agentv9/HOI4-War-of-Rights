@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = SLA
-		add_core_of = SAC
+		owner = CON
+		 
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -22,9 +22,9 @@ state={
 			}
 
 		}
-		add_core_of = SLA
+		add_core_of = CON
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
 		victory_points = {

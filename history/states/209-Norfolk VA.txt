@@ -4,7 +4,7 @@ state={
 	name="STATE_209"
 
 	history={
-		owner = SVA
+		owner = CON
 		buildings = {
 			infrastructure = 3
 			#industrial_complex = 2
@@ -27,9 +27,9 @@ state={
 		victory_points = {
 			5184 12
 		}
-		add_core_of = SVA
+		add_core_of = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 
 	}

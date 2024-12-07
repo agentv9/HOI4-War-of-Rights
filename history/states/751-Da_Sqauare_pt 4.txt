@@ -4,12 +4,12 @@ state={
 	name="STATE_751"
 
 	history={
-		owner = SMO
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
-		add_core_of = SMO
+		add_core_of = UIN
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 0

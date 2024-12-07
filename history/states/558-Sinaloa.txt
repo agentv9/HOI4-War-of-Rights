@@ -4,8 +4,8 @@ state={
 	name="STATE_558"
 
 	history={
-		owner = MSI
-		add_core_of = MSI
+		owner = MEX
+		add_core_of = MEX
 		1936.1.2 = {
 			owner = MEX
 		}

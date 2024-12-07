@@ -7,9 +7,9 @@ state={
 	}
 
 	history={
-		owner = SNH
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
@@ -26,7 +26,7 @@ state={
 		victory_points = {
 			5736 5 # idk
 		}
-		add_core_of = SNH
+		add_core_of = UIN
 
 	}
 

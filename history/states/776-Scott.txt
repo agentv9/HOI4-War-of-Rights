@@ -5,11 +5,11 @@ state={
 		5014 5016 8134 8138 
 	}
 	history = {
-		owner = SIA
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SIA
+		add_core_of = UIN
 
 		buildings = {
 			industrial_complex = 1

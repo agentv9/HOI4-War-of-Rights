@@ -4,9 +4,9 @@ state={
 	name="STATE_411"
 
 	history={
-		owner = SDE
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
@@ -14,7 +14,7 @@ state={
 			dockyard = 1
 
 		}
-		add_core_of = SDE
+		add_core_of = UIN
 
 	}
 

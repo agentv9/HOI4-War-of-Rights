@@ -6,11 +6,11 @@ state={
 		steel=1.000
 	}
 	history={
-		owner = SOH
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SOH
+		add_core_of = UIN
 		buildings = {
 			infrastructure = 1
 			air_base = 1

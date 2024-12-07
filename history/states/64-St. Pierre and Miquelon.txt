@@ -5,7 +5,7 @@ state={
 		2827 
 	}
 	history={
-		owner = PSP
+		owner = BEM
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1
@@ -15,9 +15,9 @@ state={
 			}
 
 		}
-		add_core_of = PSP
+		add_core_of = BEM
 		1936.1.2 = {
-			owner = PSP
+			owner = BEM
 		}
 		victory_points = {
 			2827 5

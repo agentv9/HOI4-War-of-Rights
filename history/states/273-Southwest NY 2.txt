@@ -7,15 +7,15 @@ state={
 	}
 
 	history={
-		owner = SNY
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}	
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = SNY
+		add_core_of = UIN
 
 	}
 

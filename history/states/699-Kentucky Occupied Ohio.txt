@@ -6,11 +6,11 @@ state = {
 		3930 3931 3934 7547 7612 7613 7614 
 	}
     history = {
-        owner = SOH
+        owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-        add_core_of = SOH
+        add_core_of = UIN
         # add_core_of = OOH
         buildings = {
             infrastructure = 1

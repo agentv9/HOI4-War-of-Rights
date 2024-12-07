@@ -6,7 +6,7 @@ state={
 		steel=2.000		
 	}
 	history={
-		owner = PBC
+		owner = BEM
 		1936.1.2 = {
 			owner = CAN
 		}
@@ -16,7 +16,7 @@ state={
 			arms_factory = 1
 			air_base = 3
 		}
-		add_core_of = PBC
+		add_core_of = BEM
 		victory_points = {
 			3027 15 
 		}

@@ -8,16 +8,16 @@ state={
 	}
 
 	history={
-		owner = SWV
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}		
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 
 		}
-		add_core_of = SWV
+		add_core_of = UIN
 		
 		victory_points = {
 			5148 3 

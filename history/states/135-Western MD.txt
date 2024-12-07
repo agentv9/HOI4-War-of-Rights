@@ -7,18 +7,18 @@ state={
 	}
 
 	history={
-		owner = SMD
+		owner = UIN
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = SMD
+		add_core_of = UIN
 		victory_points = {
 			5146 7
 		}
 
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 

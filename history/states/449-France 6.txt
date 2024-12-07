@@ -6,8 +6,8 @@ state={
 		6800 6801 6821 6902 
 	}
 	history = {
-		owner = GAY
-		# add_core_of = GAY
+		owner = DEN
+		# add_core_of = DEN
 	}
 	manpower=10
 	buildings_max_level_factor=1.000

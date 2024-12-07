@@ -8,9 +8,9 @@ state={
 	}
 
 	history={
-		owner = STN
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
@@ -20,7 +20,7 @@ state={
 			3811 20 #chattanooga 
 		}
 		
-		add_core_of = STN
+		add_core_of = CON
 	}
 	
 	provinces={

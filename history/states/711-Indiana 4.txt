@@ -6,11 +6,11 @@ state = {
 		2037 4845 7673 7681 7688 7689 7691 7692 7694 
 	}
     history = {
-        owner = SIN
+        owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-        add_core_of = SIN
+        add_core_of = UIN
         # add_core_of = FOM
         victory_points = {
             7694 2

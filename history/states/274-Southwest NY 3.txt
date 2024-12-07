@@ -5,9 +5,9 @@ state={
 	
 
 	history={
-		owner = SNY
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
 		buildings = {
@@ -15,7 +15,7 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = SNY
+		add_core_of = UIN
 
 	}
 

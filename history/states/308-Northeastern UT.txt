@@ -5,14 +5,14 @@ state={
 		oil=2.000
 	}
 	history={
-		owner = SUT
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}		
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = SUT
+		add_core_of = UIN
 	}
 	provinces={
 		2347 2388 3687 

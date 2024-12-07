@@ -8,13 +8,13 @@ state={
 	}
 
 	history={
-		owner = LMO
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
-		add_core_of = SMO
-		add_core_of = LMO
+		add_core_of = UIN
+		add_core_of = UIN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

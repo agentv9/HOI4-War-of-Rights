@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SMO
+		owner = UIN
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 5
@@ -19,12 +19,12 @@ state={
 			}
 
 		}
-		add_core_of = SMO
+		add_core_of = UIN
 		victory_points = {
 			7484 40 
 		}
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
 

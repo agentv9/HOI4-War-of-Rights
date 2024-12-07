@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = PMB
+		owner = BEM
 		1936.1.2 = {
 			owner = CAN
 		}	
@@ -15,7 +15,7 @@ state={
 			infrastructure = 1
 
 		}
-		add_core_of = PMB
+		add_core_of = BEM
 
 	}
 

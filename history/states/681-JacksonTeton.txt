@@ -5,11 +5,11 @@ state={
 		2223 4892 7433 7434 7435 7436 7437 7438 7439 7440 7441 7443 7444 7445 7447 7448 7449 
 	}
 	history = {
-		owner = SWY
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SWY
+		add_core_of = UIN
 		buildings = {
 			infrastructure = 1
 		}

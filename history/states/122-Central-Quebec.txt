@@ -4,7 +4,7 @@ state={
 	name="STATE_122"
 
 	history={
-		owner = PQC
+		owner = BEM
 		1936.1.2 = {
 			owner = CAN
 		}
@@ -13,7 +13,7 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = PQC
+		add_core_of = BEM
 
 	}
 

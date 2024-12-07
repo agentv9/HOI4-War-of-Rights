@@ -14,7 +14,7 @@ state={
 	history = {
 		owner = PRR
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		add_core_of = PRR
 		buildings = {

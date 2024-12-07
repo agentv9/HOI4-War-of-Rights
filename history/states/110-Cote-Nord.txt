@@ -4,7 +4,7 @@ state={
 	name="STATE_110"
 
 	history={
-		owner = PQC
+		owner = BEM
 		1936.1.2 = {
 			owner = CAN
 		}
@@ -18,7 +18,7 @@ state={
 			# }
 
 		}
-		add_core_of = PQC
+		add_core_of = BEM
 		victory_points = {
 			2998 3
 		}

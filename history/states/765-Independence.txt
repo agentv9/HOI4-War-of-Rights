@@ -5,11 +5,11 @@ state={
 		1692 1693 1762 5347 5348 5429 5432 5433 5435 5437 
 	}
 	history = {
-		owner = SVA
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SVA
+		add_core_of = CON
 		buildings = {
 			infrastructure = 1
 		}

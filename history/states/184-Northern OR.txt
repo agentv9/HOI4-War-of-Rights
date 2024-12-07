@@ -5,10 +5,10 @@ state={
 		chromium=2.000
 	}
 	history={
-		owner = SOR
-		add_core_of = SOR
+		owner = UIN
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
@@ -20,9 +20,9 @@ state={
 			2662 3
                 }
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_claim_by = SRO
+		 
 	}
 	provinces={
 		73 74 614 2662 2775 2913 2962 

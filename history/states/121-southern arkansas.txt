@@ -6,15 +6,15 @@ state={
 		aluminium=4.000
 	}
 	history={
-		owner = SAR
+		owner = CON
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
 			fuel_silo = 1
 		}
-		add_core_of = SAR
+		add_core_of = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 	provinces={

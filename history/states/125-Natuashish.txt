@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = PNL
+		owner = BEM
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
@@ -19,8 +19,8 @@ state={
 
 			}
 		}
-		add_core_of = PNL
-		add_core_of = LAB
+		add_core_of = BEM
+		 
 		victory_points = {
 			3607 5 
 		}

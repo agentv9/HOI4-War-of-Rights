@@ -4,9 +4,9 @@ state={
 	name="STATE_535"
 
 	history={
-		owner = SWI
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
 		buildings = {
@@ -14,7 +14,7 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = SWI
+		add_core_of = UIN
 
 	}
 

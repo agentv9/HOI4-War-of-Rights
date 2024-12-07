@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = PNB
+		owner = BEM
 		1936.1.2 = {
 			owner = CAN
 		}
@@ -18,7 +18,7 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = PNB
+		add_core_of = BEM
 
 	}
 

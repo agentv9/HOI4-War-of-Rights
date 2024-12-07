@@ -4,17 +4,17 @@ state={
 	name="STATE_683"
 
 	history={
-		owner = SMO
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
 			arms_factory = 1
 		}
-		add_core_of = SMO
-		add_claim_by = SKS
+		add_core_of = UIN
+		add_claim_by = UIN
 		victory_points = {
 			7497 30 
 		}

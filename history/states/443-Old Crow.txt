@@ -6,8 +6,8 @@ state={
 			infrastructure = 1
 			air_base = 2
 		}
-		owner = PYT
-		add_core_of = PYT
+		owner = BEM
+		add_core_of = BEM
 		1936.1.2 = {
 			owner = CAN
 		}

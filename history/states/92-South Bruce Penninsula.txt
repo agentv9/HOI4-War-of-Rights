@@ -3,14 +3,14 @@ state={
 	name="STATE_92"
 	
 	history={
-		owner = PON
+		owner = BEM
 		buildings = {
 			infrastructure = 2
 			2617= {
 				naval_base = 1
 			}
 		}
-		add_core_of = PON
+		add_core_of = BEM
 
 		1936.1.2 = {
 			owner = CAN

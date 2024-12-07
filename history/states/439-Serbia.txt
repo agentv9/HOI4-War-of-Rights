@@ -6,8 +6,8 @@ state={
 		6742 
 	}
 	history = {
-		owner = GRE 
-		# add_core_of = GAY
+		owner = DEN 
+		# add_core_of = DEN
 	}
 	manpower=10
 	buildings_max_level_factor=1.000

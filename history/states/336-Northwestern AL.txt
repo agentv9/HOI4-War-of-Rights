@@ -8,9 +8,9 @@ state={
 	}
 
 	history={
-		owner = SAL
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
@@ -19,8 +19,8 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = SAL
-		add_core_of = WFL
+		add_core_of = CON
+		 
                victory_points = {  1179 15 }
 	}
 	

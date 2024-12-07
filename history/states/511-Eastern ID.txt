@@ -9,15 +9,15 @@ state={
 		chromium = 24
 	}
 	history={
-		owner = SID
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = SID
+		add_core_of = UIN
 		#add_claim_by = PCA
 		#victory_points = { #Atomic City
 		#	3739 1

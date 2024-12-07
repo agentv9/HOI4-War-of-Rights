@@ -8,11 +8,11 @@ state={
 		chromium=10.000		
 	}
 	history = {
-		owner = SNC
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SNC
+		add_core_of = CON
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

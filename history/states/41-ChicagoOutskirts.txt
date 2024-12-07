@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = SIL
-		add_core_of = SIL
+		owner = UIN
+		add_core_of = UIN
 		buildings = {
 			industrial_complex = 2
 			infrastructure = 4
@@ -24,7 +24,7 @@ state={
 			7736 15 
 		}
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 
 	}

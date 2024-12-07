@@ -7,9 +7,9 @@ state={
 		6829 6830 6831 6837 6838 
 	}
 	history = {
-		owner = GAY
-		add_core_of = GAY
-		add_core_of = GRE
+		owner = DEN
+		add_core_of = DEN
+		add_core_of = DEN
 	}
 	manpower=2000
 	buildings_max_level_factor=1.000

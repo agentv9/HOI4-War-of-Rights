@@ -3,7 +3,7 @@ state={
 	name="STATE_507"
 	
 	history={
-		owner = PNT
+		owner = BEM
 		1936.1.2 = {
 			owner = CAN
 		}
@@ -13,7 +13,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = PNT
+		add_core_of = BEM
 	}
 	
 	provinces={

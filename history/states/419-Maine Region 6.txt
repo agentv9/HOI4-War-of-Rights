@@ -4,9 +4,9 @@ state={
 	name="STATE_419"
 
 	history={
-		owner = SME
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 3
@@ -18,7 +18,7 @@ state={
 		victory_points = {
 			2632 15 
 		}
-		add_core_of = SME
+		add_core_of = UIN
 
 	}
 

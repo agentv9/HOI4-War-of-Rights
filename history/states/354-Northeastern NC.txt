@@ -7,9 +7,9 @@ state={
 	}
 
 	history={
-		owner = SNC
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
 		buildings = {
@@ -19,7 +19,7 @@ state={
 			dockyard = 1
 
 		}
-		add_core_of = SNC
+		add_core_of = CON
 		victory_points = {
 			5419 18 
 		}

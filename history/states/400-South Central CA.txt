@@ -4,9 +4,9 @@ state={
 	name="STATE_400"
 
 	history={
-		owner = SCA
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
@@ -14,9 +14,9 @@ state={
 			arms_factory = 1
 
 		}
-		add_core_of = SCA
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 

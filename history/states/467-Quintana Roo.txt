@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = MQR
-		add_core_of = MQR
+		owner = MEX
+		add_core_of = MEX
 		add_core_of = COZ
 		victory_points = {
 			4164 5

@@ -7,14 +7,14 @@ state={
 	}
 
 	history={
-		owner = SFL
+		owner = CON
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = SFL
+		add_core_of = CON
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
 

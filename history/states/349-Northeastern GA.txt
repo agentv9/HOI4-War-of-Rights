@@ -7,9 +7,9 @@ state={
 	}
 
 	history={
-		owner = SGA
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
@@ -17,7 +17,7 @@ state={
 			arms_factory = 1
 
 		}
-		add_core_of = SGA
+		add_core_of = CON
 		
 		victory_points = {
 			5308 4 

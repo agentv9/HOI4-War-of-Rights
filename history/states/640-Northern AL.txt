@@ -8,12 +8,12 @@ state={
 	}
 
 	history={
-		owner = SAL
+		owner = CON
 		buildings = {
 			infrastructure = 2
 			fuel_silo = 1
 		}
-		add_core_of = SAL
+		add_core_of = CON
 		victory_points = {
 			6614 20 
 		}
@@ -21,7 +21,7 @@ state={
 			2178 3 
 		}
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 

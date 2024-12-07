@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = SIN
-		add_core_of = SIN
+		owner = UIN
+		add_core_of = UIN
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
@@ -26,7 +26,7 @@ state={
 		}
 		add_core_of = CHI
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 

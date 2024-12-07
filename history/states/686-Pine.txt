@@ -7,9 +7,9 @@ state={
 	}
 
 	history={
-		owner = SNV
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 0	
@@ -24,7 +24,7 @@ state={
 		#victory_points = {
 		#	3051 # FROM SKORP: NEED POINT AMOUNT
 		#}
-		add_core_of = SNV
+		add_core_of = UIN
 		victory_points = {
 			3051 5
 		}

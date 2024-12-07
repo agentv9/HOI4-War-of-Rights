@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SIN
+		owner = UIN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 3
@@ -15,9 +15,9 @@ state={
 			air_base = 2
 
 		}
-		add_core_of = SIN
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 
 		victory_points = {

@@ -4,11 +4,11 @@ state={
 	name="STATE_767"
 
 	history={
-		owner = SNC
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SNC
+		add_core_of = CON
 		
 		buildings = {
 			infrastructure = 3

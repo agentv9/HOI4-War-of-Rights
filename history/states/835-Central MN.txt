@@ -2,15 +2,15 @@ state={
 	id=835
 	name="STATE_835"
 	history={
-		owner = SMN
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 		}
-		add_core_of = SMN
+		add_core_of = UIN
 		victory_points={
 			8161 5
 		}

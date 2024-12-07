@@ -6,17 +6,17 @@ state={
 		oil=24.000
 	}
 	history={
-		owner = SSD
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 			air_base = 2
 		}
-		add_core_of = SSD
-		add_claim_by = SND
+		add_core_of = UIN
+		add_claim_by = UIN
 		victory_points = {
 			2641 1 
 		}

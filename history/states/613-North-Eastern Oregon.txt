@@ -5,11 +5,11 @@ state={
 		118 2626 2691 2965 3032 3114 
 	}
 	history={
-		owner = SOR
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SOR
+		add_core_of = UIN
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1
@@ -17,7 +17,7 @@ state={
 		victory_points = {
 			2965 7
                 }
-		add_claim_by = SRO
+		 
 	}
 	manpower=33211
 	buildings_max_level_factor=1.000

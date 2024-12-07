@@ -6,7 +6,7 @@ state = {
 		aluminium = 4
 	}
 	history = {
-		owner = SWI
+		owner = UIN
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 3
@@ -15,7 +15,7 @@ state = {
 				naval_base = 6
 			}
 		}
-		add_core_of = SWI
+		add_core_of = UIN
 		victory_points = {
 			6500
 			15
@@ -29,7 +29,7 @@ state = {
 			5
 		}
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 	provinces = {

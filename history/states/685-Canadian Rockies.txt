@@ -5,9 +5,9 @@ state={
 		5878 5886 
 	}
 	history={
-		owner = PBC
+		owner = BEM
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 1

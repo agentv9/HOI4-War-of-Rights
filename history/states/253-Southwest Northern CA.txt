@@ -5,16 +5,16 @@ state={
 		oil=24.000
 	}
 	history={
-		owner = SCA
+		owner = UIN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 			arms_factory = 1
 		}
-		add_core_of = SCA
-		add_core_of = JEF
+		add_core_of = UIN
+		 
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 	provinces={

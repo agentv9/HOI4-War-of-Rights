@@ -5,12 +5,12 @@ state={
 		777 879 4766 4774 4776 4782 
 	}
 	history = {
-		owner = MCH
+		owner = MEX
 		1936.1.2 = {
 			owner = MEX
 
 		}
-		add_core_of = MCH
+		add_core_of = MEX
 		buildings = {
 			infrastructure = 1
 		}

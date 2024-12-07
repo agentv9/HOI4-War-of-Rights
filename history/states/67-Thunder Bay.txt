@@ -8,13 +8,13 @@ state={
 
 
 	history={
-		owner = PON
+		owner = BEM
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 
 		}
-		add_core_of = PON
+		add_core_of = BEM
 
 		1936.1.2 = {
 			owner = CAN

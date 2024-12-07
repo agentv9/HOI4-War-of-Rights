@@ -12,9 +12,9 @@ state={
 		chromium = 30
 	}
 	history={
-		owner = SID
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 3
@@ -22,7 +22,7 @@ state={
 			arms_factory = 1
 			air_base = 4
 		}
-		add_core_of = SID
+		add_core_of = UIN
 		victory_points = {
 			3737 25		# boise
 		}

@@ -5,7 +5,7 @@ state={
 		tungsten=3.000
 	}
 	history={
-		owner = PBC
+		owner = BEM
 		1936.1.2 = {
 			owner = CAN
 		}		
@@ -13,7 +13,7 @@ state={
 			infrastructure = 2
 			air_base = 1
 		}
-		add_core_of = PBC
+		add_core_of = BEM
 	}
 	provinces={
 		3001 3008 3021 3052 3066 3071 5858 5860 5861 

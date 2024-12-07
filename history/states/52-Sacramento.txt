@@ -7,14 +7,14 @@ state={
 	}
 
 	history={
-		owner = SCA
+		owner = UIN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			arms_factory = 1
 
 		}
-		add_core_of = SCA
+		add_core_of = UIN
 		victory_points = {
 			1875 25 
 		}
@@ -22,7 +22,7 @@ state={
 			4484 3
 		}
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 
 	}

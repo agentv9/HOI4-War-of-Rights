@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = STX
+		owner = CON
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
@@ -19,11 +19,11 @@ state={
 		victory_points = {
 			4928 20 # el paso 
 		}
-		add_core_of = STX
+		add_core_of = CON
 
 		
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 

@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SWA
+		owner = UIN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 3
@@ -34,9 +34,9 @@ state={
 		victory_points = {
 			2719 3 
 		}
-		add_core_of = SWA
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		#add_claim_by = PCA
 	}

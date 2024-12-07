@@ -7,14 +7,14 @@ state={
 	}
 
 	history={
-		owner = PQC
+		owner = BEM
 		1936.1.2 = {
 			owner = CAN
 		}
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = PQC
+		add_core_of = BEM
 		victory_points = {
 			2757 8
 		}

@@ -6,10 +6,10 @@ state={
 		2594 6494 6495 6501 
 	}
 	history={
-		owner = SWI
-		add_core_of = SWI
+		owner = UIN
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
 		buildings = {

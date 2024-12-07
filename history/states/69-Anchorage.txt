@@ -6,9 +6,9 @@ state={
 		tungsten=4.000
 	}
 	history={
-		owner = SAK
+		owner = RUS
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 1
@@ -16,7 +16,7 @@ state={
 				naval_base = 2
 			}
 		}
-		add_core_of = SAK
+		add_core_of = RUS
 		victory_points = {
 			3364 15 
 		}

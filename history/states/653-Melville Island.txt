@@ -5,8 +5,8 @@ state={
 		6671 6673 6678 6686 7212 7222 7239 7242 7248 
 	}
 	history = {
-		owner = PNT
-		add_core_of = PNT
+		owner = BEM
+		add_core_of = BEM
 		1936.1.2 = {
 			owner = CAN
 		}

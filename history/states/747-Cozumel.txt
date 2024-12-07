@@ -9,10 +9,10 @@ state={
 	history={
 		owner = COZ
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = MQR
-		add_core_of = MYU
+		add_core_of = MEX
+		add_core_of = MEX
 		add_core_of = COZ
 		
 		buildings = {

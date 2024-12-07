@@ -8,16 +8,16 @@ state={
 	}
 
 	history={
-		owner = SNV
+		owner = UIN
 		buildings = {
 			infrastructure = 1
 			arms_factory = 2
 			air_base = 2
 
 		}
-		add_core_of = SNV
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 

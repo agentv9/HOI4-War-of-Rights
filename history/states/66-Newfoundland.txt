@@ -7,7 +7,7 @@ state={
 		steel=12.000
 	}
 	history={
-		owner = PNL
+		owner = BEM
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
@@ -24,7 +24,7 @@ state={
 			} 
 			dockyard = 1
 		}
-		add_core_of = PNL
+		add_core_of = BEM
 		add_core_of = NFL
 		victory_points = {
 			5539 3

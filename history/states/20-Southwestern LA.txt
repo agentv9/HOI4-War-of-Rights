@@ -5,8 +5,8 @@ state = {
 		oil = 26
 	}
 	history = {
-		owner = SLA
-		add_core_of = SAC
+		owner = CON
+		 
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
@@ -16,7 +16,7 @@ state = {
 				naval_base = 2
 			}
 		}
-		add_core_of = SLA
+		add_core_of = CON
 		victory_points = {
 			2125
 			12
@@ -30,7 +30,7 @@ state = {
 			9
 		}
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 	provinces = {

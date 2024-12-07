@@ -7,9 +7,9 @@ state={
 	}
 
 	history={
-		owner = SOH
+		owner = UIN
 		add_core_of = CLE
-		add_core_of = SOH
+		add_core_of = UIN
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
@@ -29,7 +29,7 @@ state={
 			3987 11 
 		}
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
 

@@ -5,11 +5,11 @@ state={
 		1454 1494 5322 5325 5594 5597 
 	}
 	history = {
-		owner = SNC
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SNC
+		add_core_of = CON
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

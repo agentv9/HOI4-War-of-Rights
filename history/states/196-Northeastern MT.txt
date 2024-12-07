@@ -9,15 +9,15 @@ state={
 	}
 
 	history={
-		owner = SMT
+		owner = UIN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 
 		}
-		add_core_of = SMT
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 
 	}

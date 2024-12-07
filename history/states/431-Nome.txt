@@ -5,14 +5,14 @@ state={
 		oil=22
 	}
 	history={
-		owner = SAK
+		owner = RUS
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 0
 		}
-		add_core_of = SAK
+		add_core_of = RUS
 	}
 	provinces={
 		1133 1469 1485 1573 1592 3316 3328 3415 3416 5064 5066 5077 5078 

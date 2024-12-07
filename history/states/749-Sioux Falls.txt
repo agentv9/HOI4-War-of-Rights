@@ -2,12 +2,12 @@ state={
 	id=749
 	name="STATE_749"
 	history={
-		owner = SSD
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SSD
-		add_claim_by = SND
+		add_core_of = UIN
+		add_claim_by = UIN
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 0

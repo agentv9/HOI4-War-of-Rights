@@ -4,7 +4,7 @@ state={
 	name="STATE_528"
 
 	history={
-		owner = PON
+		owner = BEM
 		1936.1.2 = {
 			owner = CAN
 		}
@@ -12,7 +12,7 @@ state={
 			infrastructure = 3
 
 		}
-		add_core_of = PON
+		add_core_of = BEM
 		victory_points = {
 			3843 2
 		}

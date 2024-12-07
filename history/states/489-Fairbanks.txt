@@ -8,10 +8,10 @@ state={
 		chromium=40.000
 	}
 	history = {
-		owner = SAK
-		add_core_of = SAK
+		owner = RUS
+		add_core_of = RUS
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 1

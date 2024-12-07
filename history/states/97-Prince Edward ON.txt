@@ -4,7 +4,7 @@ state={
 	name="STATE_97"
 
 	history={
-		owner = PON
+		owner = BEM
 		1936.1.2 = {
 			owner = CAN
 		}
@@ -14,7 +14,7 @@ state={
 			arms_factory = 1
 			industrial_complex = 1
 		}
-		add_core_of = PON
+		add_core_of = BEM
 		victory_points = {
 			6241 15
 		}

@@ -6,8 +6,8 @@ state={
 		6825 6827 6828 6832 6834 6836 
 	}
 	history = {
-		owner = GRE
-		add_core_of = GRE
+		owner = DEN
+		add_core_of = DEN
 		buildings = {
 			infrastructure = 1
 		}

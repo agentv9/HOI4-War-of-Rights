@@ -4,11 +4,11 @@ state={
 	name="STATE_741"
 
 	history={
-		owner = SMI
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SMI
+		add_core_of = UIN
 		add_core_of = MMG
 		buildings = {
 			infrastructure = 2

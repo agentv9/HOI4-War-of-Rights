@@ -8,9 +8,9 @@ state={
 	}
 
 	history={
-		owner = SWV
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}		
 		buildings = {
 			infrastructure = 1
@@ -19,7 +19,7 @@ state={
 			fuel_silo = 1
 
 		}
-		add_core_of = SWV
+		add_core_of = UIN
 		victory_points = {
 			1842 20 
 		}

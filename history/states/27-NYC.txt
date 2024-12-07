@@ -3,7 +3,7 @@ state={
 	name="STATE_27"
 	
 	history={
-		owner = NYC
+		owner = UIN
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 6
@@ -13,12 +13,12 @@ state={
 				naval_base = 10
 			}
 		}
-		add_core_of = NYC
+		add_core_of = UIN
 		victory_points = {
 			2203 50
 		}
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 	

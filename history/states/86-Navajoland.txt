@@ -6,21 +6,21 @@ state={
 		steel=1.000
 	}
 	history={
-		owner = NAV
+		owner = UIN
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 2
 			arms_factory = 2
 			air_base = 2
 		}
-		add_core_of = NAV
-		add_claim_by = SAZ
+		add_core_of = UIN
+		add_claim_by = UIN
 		
 		victory_points = {
 			1020 5 
 		}
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 	provinces={

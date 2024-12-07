@@ -2,9 +2,9 @@ state={
 	id=54
 	name="STATE_54"
 	history={
-		owner = SRO
-		add_core_of = SRO
-		add_claim_by = SOR
+		owner = UIN
+		 
+		add_claim_by = UIN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
@@ -16,9 +16,7 @@ state={
 		victory_points = {
 			2727 20
                 }
-		1936.1.2 = {
-			owner = USA
-		}
+		 
 	}
 	provinces={
 		293 1294 1719 1775 1806 2676 2727 3082 

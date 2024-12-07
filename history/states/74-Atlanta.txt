@@ -7,14 +7,14 @@ state={
 		1341 1690 1737 
 	}
 	history={
-		owner = SGA
+		owner = CON
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			arms_factory = 2
 			air_base = 1
 		}
-		add_core_of = SGA
+		add_core_of = CON
 		victory_points = {
 			1737 40		# atlanta
 		}
@@ -23,7 +23,7 @@ state={
 		}
 		
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 	manpower=654000

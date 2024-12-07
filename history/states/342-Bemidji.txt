@@ -2,14 +2,14 @@ state={
 	id=342
 	name="STATE_342"
 	history={
-		owner = SMN
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = SMN
+		add_core_of = UIN
 		victory_points = {
 			6508 1 
 		}

@@ -9,11 +9,11 @@ state={
 		aluminium=14	
 	}
 	history = {
-		owner = SSC
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SSC
+		add_core_of = CON
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

@@ -9,11 +9,11 @@ state={
 		tungsten=12.000
 	}
 	history = {
-		owner = SKS
-		add_core_of = SKS
-		add_claim_by = SMO
+		owner = UIN
+		add_core_of = UIN
+		add_claim_by = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 3

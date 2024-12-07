@@ -2,7 +2,7 @@ state={
 	id=63
 	name="STATE_63"
 	history={
-		owner = PBC
+		owner = BEM
 		buildings = {
 			infrastructure = 2
 			air_base = 4
@@ -10,7 +10,7 @@ state={
 				naval_base = 4
 			}
 		}
-		add_core_of = PBC
+		add_core_of = BEM
 		add_core_of = PVC
 		1936.1.2 = {
 			owner = CAN

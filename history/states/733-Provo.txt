@@ -6,11 +6,11 @@ state={
 		chromium=1.000
 	}
 	history={
-		owner = SUT
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SUT
+		add_core_of = UIN
 		victory_points = {
 			7670 5 
 		}

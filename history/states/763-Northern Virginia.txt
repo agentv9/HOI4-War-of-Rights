@@ -8,12 +8,12 @@ state={
 	}
 
 	history={
-		owner = SVA
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 
 		}
-		add_core_of = SVA
+		add_core_of = CON
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 0

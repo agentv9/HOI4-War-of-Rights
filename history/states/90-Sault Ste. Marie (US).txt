@@ -4,7 +4,7 @@ state={
 	name="STATE_90"
 
 	history={
-		owner = SUP
+		owner = UIN
 		buildings = {
 			infrastructure = 2
 			air_base = 4
@@ -14,14 +14,14 @@ state={
 			}
 
 		}
-		add_core_of = SUP
-		add_core_of = SMI
-		add_core_of = SUP
+		add_core_of = UIN
+		add_core_of = UIN
+		add_core_of = UIN
 		victory_points = {
 			2752 1 
 		}
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 

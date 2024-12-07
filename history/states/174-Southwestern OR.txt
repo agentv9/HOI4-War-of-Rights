@@ -2,11 +2,11 @@ state={
 	id=174
 	name="STATE_174"
 	history={
-		owner = SOR
-		add_core_of = SOR
-		add_core_of = JEF
+		owner = UIN
+		add_core_of = UIN
+		 
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
@@ -15,9 +15,9 @@ state={
 			437 1
                 }
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_claim_by = SRO
+		 
 	}
 	provinces={
 		68 437 506 2338 2353 

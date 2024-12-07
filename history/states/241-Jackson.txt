@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SMS
+		owner = CON
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -15,9 +15,9 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = SMS
+		add_core_of = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		victory_points = {
 			6538 20

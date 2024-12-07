@@ -7,11 +7,11 @@ state={
 		6975 
 	}
 	history = {
-		owner = GAY
+		owner = DEN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		# add_core_of = GAY
+		# add_core_of = DEN
 	}
 	manpower=10
 	buildings_max_level_factor=1.000

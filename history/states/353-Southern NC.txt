@@ -4,9 +4,9 @@ state={
 	name="STATE_353"
 
 	history={
-		owner = SNC
+		owner = CON
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 2
@@ -23,7 +23,7 @@ state={
 			}
 
 		}
-		add_core_of = SNC
+		add_core_of = CON
 		victory_points = {
 			1449 15 
 		}

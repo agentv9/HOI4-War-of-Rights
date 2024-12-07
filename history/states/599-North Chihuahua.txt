@@ -2,8 +2,8 @@ state = {
 	id = 599
 	name = "STATE_599"
 	history = {
-		owner = MCH
-		add_core_of = MCH
+		owner = MEX
+		add_core_of = MEX
 		1936.1.2 = {
 			owner = MEX
 		}

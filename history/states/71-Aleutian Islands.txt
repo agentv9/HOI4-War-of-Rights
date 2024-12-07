@@ -2,9 +2,9 @@ state={
 	id=71
 	name="STATE_71"
 	history={
-		owner = SOJ
+		owner = RUS
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			air_base = 2
@@ -13,8 +13,8 @@ state={
 				naval_base = 7
 			}
 		}
-		add_core_of = SAK
-		add_core_of = SOJ
+		add_core_of = RUS
+		add_core_of = RUS
 		victory_points = {
 			5033 15
 		}

@@ -9,9 +9,9 @@ state={
 	}
 
 	history={
-		owner = SCO
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}		 
 		buildings = {
 			infrastructure = 2
@@ -20,7 +20,7 @@ state={
 			fuel_silo = 1
 			air_base = 3
 		}
-		add_core_of = SCO
+		add_core_of = UIN
 		victory_points = {
 			2012 30 
 		}

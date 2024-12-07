@@ -2,11 +2,11 @@ state={
 	id=724
 	name="STATE_724"
 	history={
-		owner = SIL
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SIL
+		add_core_of = UIN
 		add_core_of = MAR
 		buildings = {
 			

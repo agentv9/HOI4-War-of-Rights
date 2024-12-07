@@ -8,9 +8,9 @@ state={
 			infrastructure = 3
 		}
 		add_core_of = WDC
-		add_core_of = SMD
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	} 
 

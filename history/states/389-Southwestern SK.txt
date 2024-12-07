@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = PSK
+		owner = BEM
 		1936.1.2 = {
 			owner = CAN
 		}
@@ -18,7 +18,7 @@ state={
 			air_base = 4
 
 		}
-		add_core_of = PSK
+		add_core_of = BEM
 		victory_points = {
 			1681 5
 		}

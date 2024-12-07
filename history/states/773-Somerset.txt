@@ -7,11 +7,11 @@ state={
 	} 
 
 	history={
-		owner = SKY
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
-		add_core_of = SKY
+		add_core_of = UIN
 		buildings = {
 			infrastructure = 1
 

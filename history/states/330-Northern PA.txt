@@ -7,9 +7,9 @@ state={
 	}
 
 	history={
-		owner = SPA
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 		buildings = {
 			infrastructure = 3
@@ -18,7 +18,7 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = SPA
+		add_core_of = UIN
 
 	}
 

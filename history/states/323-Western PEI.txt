@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = PEI
+		owner = BEM
 		1936.1.2 = {
 			owner = CAN
 		}
@@ -21,7 +21,7 @@ state={
 			}
 
 		}
-		add_core_of = PEI
+		add_core_of = BEM
 
 	}
 

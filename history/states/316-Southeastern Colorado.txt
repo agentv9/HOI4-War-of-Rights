@@ -9,16 +9,16 @@ state={
 	}
 
 	history={
-		owner = SCO
+		owner = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}		
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
 
 		}
-		add_core_of = SCO
+		add_core_of = UIN
 		victory_points = {
 			5664 3
 		}

@@ -4,7 +4,7 @@ state={
 	name="STATE_504"
 
 	history={
-		owner = PNT
+		owner = BEM
 		buildings = {
 			infrastructure = 0
 			air_base = 1
@@ -12,7 +12,7 @@ state={
 		victory_points = {
 			3388 20 
 		}
-		add_core_of = PNT
+		add_core_of = BEM
 		1936.1.2 = {
 			owner = CAN
 		}

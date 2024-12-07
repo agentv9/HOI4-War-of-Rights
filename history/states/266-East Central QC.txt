@@ -7,13 +7,13 @@ state={
 	}
 
 	history={
-		owner = PQC
+		owner = BEM
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
 
 		}
-		add_core_of = PQC
+		add_core_of = BEM
 		victory_points = {
 			3657 1
 		}

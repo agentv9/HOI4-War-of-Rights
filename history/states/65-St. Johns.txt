@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = PNL
+		owner = BEM
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
@@ -21,7 +21,7 @@ state={
 			dockyard = 2
 		}
 
-		add_core_of = PNL
+		add_core_of = BEM
 		add_core_of = NFL
 		1936.1.2 = {
 			owner = CAN

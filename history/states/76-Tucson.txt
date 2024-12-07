@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = SAZ
+		owner = UIN
 		buildings = {
 			infrastructure = 1
 			arms_factory = 2
@@ -20,9 +20,9 @@ state={
 		victory_points = {
 			830 3
 		}
-		add_core_of = SAZ
+		add_core_of = UIN
 		1936.1.2 = {
-			owner = USA
+			 
 		}
 	}
 

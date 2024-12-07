@@ -80,6 +80,6 @@ sub_unit_modifiers = {
 	modifier_army_sub_unit_military_police_speed_factor
 	modifier_army_sub_unit_military_police_max_org_factor
 
-	#### SWI #### 
+	#### UIN #### 
 	modifier_army_sub_unit_militia_org_recovery_cap_factor
 }
