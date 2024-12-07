@@ -32,3 +32,63 @@ MEX = {
 	color = rgb {8 168 0}
 	color_ui = rgb {8 168 0}
 }
+
+GUA = {
+	color = rgb {178 255 178}
+	color_ui = rgb {178 255 178}
+}
+
+ELS = {
+	color = rgb {46 209 119}
+	color_ui = rgb {46 209 119}
+}
+
+HON = {
+	color = rgb {203 199 52}
+	color_ui = rgb {203 199 52}
+}
+
+NIC = {
+	color = rgb {155 51 0}
+	color_ui = rgb {155 51 0}
+}
+
+COS = {
+	color = rgb {255 191 128}
+	color_ui = rgb {255 191 128}
+}
+
+COL = {
+	color = rgb {191 143 143}
+	color_ui = rgb {191 143 143}
+}
+
+VEN = {
+	color = rgb {128 174 19}
+	color_ui = rgb {128 174 19}
+}
+
+NET = {
+	color = rgb {242 79 0}
+	color_ui = rgb {242 79 0}
+}
+
+FRA = {
+	color =  rgb {3 86 252}
+	color_ui =  rgb {3 86 252}
+}
+
+DOM = {
+	color =  rgb {0 255 255}
+	color_ui =  rgb {0 255 255}
+}
+HAI = {
+	color =  rgb {164 132 96}
+	color_ui =  rgb {164 132 96}
+}
+
+
+SPA = {
+	color =  rgb {168 230 29}
+	color_ui =  rgb {168 230 29}
+}

@@ -11,8 +11,8 @@ state={
 	}
 
 	history = {
-		owner = TAC
-		add_core_of = TAC
+		owner = BEM
+		add_core_of = BEM
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

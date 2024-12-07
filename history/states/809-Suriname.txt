@@ -4,8 +4,8 @@ state={
 	name="STATE_809"
 
 	history={
-		owner = SUR
-		add_core_of = SUR
+		owner = NET
+		add_core_of = NET
 		buildings = {
 			infrastructure = 1
 			50 = {

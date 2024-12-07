@@ -12,11 +12,11 @@ state={
 		oil = 3
 	}
 	history = {
-		owner = PRR
+		owner = SPA
 		1936.1.2 = {
 			 
 		}
-		add_core_of = PRR
+		add_core_of = SPA
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 3

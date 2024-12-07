@@ -6,10 +6,10 @@ state={
 		372 1593 
 	}
 	history = {
-		owner = UAF
-		add_core_of = UAF
-		add_core_of = VIR
-		add_claim_by = PRR
+		owner = BEM
+		add_core_of = BEM
+		
+		
 		1936.1.2 = {
 			 
 		}

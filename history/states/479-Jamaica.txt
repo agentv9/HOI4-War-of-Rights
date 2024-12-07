@@ -11,8 +11,8 @@ state={
 		oil = 12
 	}
 	history = {
-		owner = JAM
-		add_core_of = JAM
+		owner =  BEM
+		add_core_of =  BEM
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

@@ -9,7 +9,7 @@ state={
 		230 1729 8352 
 	}
 	history = {
-		owner = VEN
+		owner = NET
 		buildings = {
 			infrastructure = 1
 			230 = {
@@ -23,7 +23,7 @@ state={
 			}
 
 		}
-		add_core_of = VEN
+		add_core_of = NET
 		victory_points = {
 			1729 10
 		}

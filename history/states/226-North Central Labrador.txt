@@ -10,8 +10,8 @@ state={
 		oil = 2
 	}
 	history = {
-		owner = CAY
-		add_core_of = CAY
+		owner = SPA
+		add_core_of = SPA
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

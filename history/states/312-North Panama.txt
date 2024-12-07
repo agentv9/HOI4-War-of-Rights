@@ -9,11 +9,11 @@ state={
 	}
 
 	history={
-		owner = PAN
+		owner = COL
 		1936.1.2 = {
 			 
 		}	
-		add_core_of = PAN
+		add_core_of = COL
 		buildings = {
 			infrastructure = 1
 			dockyard = 1

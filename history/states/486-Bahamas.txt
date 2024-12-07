@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = BAH
-		add_core_of = BAH
+		owner = BEM
+		add_core_of = BEM
 		buildings = {
 			dockyard = 1
 			infrastructure = 1

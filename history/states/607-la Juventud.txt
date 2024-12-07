@@ -9,8 +9,8 @@ state={
 		oil = 1
 	}
 	history = {
-		owner = CUB
-		add_core_of = CUB
+		owner = SPA
+		add_core_of = SPA
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 0

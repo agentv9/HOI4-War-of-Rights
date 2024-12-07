@@ -9,8 +9,8 @@ state={
 	}
 
 	history={
-		owner = CTR
-		add_core_of = CTR
+		owner = BEM
+		add_core_of = BEM
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

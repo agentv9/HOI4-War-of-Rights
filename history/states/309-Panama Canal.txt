@@ -5,9 +5,9 @@ state={
 		steel=8.000
 	}
 	history={
-		owner = LON
-		add_core_of = PAN
-		add_core_of = LON
+		owner = COL
+		add_core_of = COL
+		add_core_of = COL
 		1936.1.2 = {
 			 
 		}
