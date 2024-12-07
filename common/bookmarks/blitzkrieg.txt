@@ -1,0 +1,24 @@
+bookmarks = {
+	bookmark = {
+		name = "WOR_NAME"
+		desc = "WOR_DESC"
+		date = 1861.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "UIN"
+		default = yes
+		
+		"CSA"={
+			ideology = fascism
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+		"UIN"={
+			ideology = democratic
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+		
+
+		effect = {
+			randomize_weather = 12345
+		}
+	}
+}

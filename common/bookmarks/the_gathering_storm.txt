@@ -2,16 +2,23 @@ bookmarks = {
 	bookmark = {
 		name = "GATHERING_STORM_NAME"
 		desc = "GATHERING_STORM_DESC"
-		date = 1984.1.1.12
+		date = 1861.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "TST"
+		default_country = "UIN"
 		default = yes
 		
-		"TST"={
+		"CSA"={
+			ideology = fascism
 			history = "OTHER_GATHERING_STORM_DESC"
 		}
-		"---"={
+		"UIN"={
+			ideology = democratic
 			history = "OTHER_GATHERING_STORM_DESC"
+		}
+		
+
+		effect = {
+			randomize_weather = 12345
 		}
 	}
 }
