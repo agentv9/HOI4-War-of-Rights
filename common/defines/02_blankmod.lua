@@ -1,4 +1,4 @@
-NDefines.NGame.START_DATE = "1984.1.1.12"
+NDefines.NGame.START_DATE = "1861.4.12.12"
 NDefines.NGame.END_DATE = "1999.1.1.1"
 
 NDefines.NGame.LAG_DAYS_FOR_LOWER_SPEED = 100

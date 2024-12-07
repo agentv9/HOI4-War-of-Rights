@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = CON
+		owner =  CSA
 		1936.1.2 = {
 			 
 		}
@@ -19,7 +19,7 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 		 
                victory_points = {  1179 15 }
 	}

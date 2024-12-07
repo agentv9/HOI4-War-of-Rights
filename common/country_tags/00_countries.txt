@@ -1,5 +1,4 @@
-TST = "countries/_western_european.txt"
-CON = "countries/_commonwealth.txt"
+CSA = "countries/_commonwealth.txt"
 UIN = "countries/_commonwealth.txt"
 BEM = "countries/_commonwealth.txt"
 RUS = "countries/_eastern_european.txt"

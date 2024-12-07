@@ -7,7 +7,7 @@ state={
 	} 
 
 	history={
-		owner = CON
+		owner =  CSA
 		1936.1.2 = {
 			 
 		}
@@ -17,7 +17,7 @@ state={
 			arms_factory = 3
 
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 		victory_points = {
 			6301 25
 		}

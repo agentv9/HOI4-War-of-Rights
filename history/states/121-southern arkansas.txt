@@ -6,13 +6,13 @@ state={
 		aluminium=4.000
 	}
 	history={
-		owner = CON
+		owner =  CSA
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
 			fuel_silo = 1
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 		1936.1.2 = {
 			 
 		}

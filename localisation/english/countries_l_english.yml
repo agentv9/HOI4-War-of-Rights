@@ -1,4 +1,72 @@
 ﻿l_english:
- TST:0 "Test State"
- TST_DEF:0 "Test State"
- TST_ADJ:0 "Test"
+ CSA:0 "Confederate States of America"
+ CSA_DEF:0 "Confederate States of America"
+ CSA_ADJ:0 "Confederate States of America"
+
+ UIN:0 "the United States"
+ UIN_DEF:0 "the United States"
+ UIN_ADJ:0 "the United States"
+
+ BEM:0 "British Empire"
+ BEM_DEF:0 "British Empire"
+ BEM_ADJ:0 "British Empire"
+
+ RUS:0 "Russian Empire"
+ RUS_DEF:0 "Russian Empire"
+ RUS_ADJ:0 "Russian Empire"
+
+ DEN:0 "Denmark"
+ DEN_DEF:0 "Denmark"
+ DEN_ADJ:0 "Denmark"
+
+ MEX:0 "Mexico"
+ MEX_DEF:0 "Mexico"
+ MEX_ADJ:0 "Mexico"
+
+ GUA:0 "Guatemala"
+ GUA_DEF:0 "Guatemala"
+ GUA_ADJ:0 "Guatemala"
+
+ ELS:0 "El Salvador"
+ ELS_DEF:0 "El Salvador"
+ ELS_ADJ:0 "El Salvador"
+
+ HON:0 "Hondurus"
+ HON_DEF:0 "Hondurus"
+ HON_ADJ:0 "Hondurus"
+
+ NIC:0 "Nicaragua"
+ NIC_DEF:0 "Nicaragua"
+ NIC_ADJ:0 "Nicaragua"
+
+ COS:0 "Costa Rica"
+ COS_DEF:0 "Costa Rica"
+ COS_ADJ:0 "Costa Rica"
+
+ COL:0 "Columbia"
+ COL_DEF:0 "Columbia"
+ COL_ADJ:0 "Columbia"
+
+ VEN:0 "Venezuela"
+ VEN_DEF:0 "Venezuela"
+ VEN_ADJ:0 "Venezuela"
+
+ NET:0 "Netherlands"
+ NET_DEF:0 "Netherlands"
+ NET_ADJ:0 "Netherlands"
+
+ FRA:0 "France"
+ FRA_DEF:0 "France"
+ FRA_ADJ:0 "France"
+
+ DOM:0 "Dominican Republic"
+ DOM_DEF:0 "Dominican Republic"
+ DOM_ADJ:0 "Dominican Republic"
+
+ HAI:0 "Haiti"
+ HAI_DEF:0 "Haiti"
+ HAI_ADJ:0 "Haiti"
+
+ SPA:0 "Spanish Empire"
+ SPA_DEF:0 "Spanish Empire"
+ SPA_ADJ:0 "Spanish Empire"

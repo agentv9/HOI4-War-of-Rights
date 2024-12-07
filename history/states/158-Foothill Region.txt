@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = CON
+		owner =  CSA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -15,7 +15,7 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 		1936.1.2 = {
 			 
 

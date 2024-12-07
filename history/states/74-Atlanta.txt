@@ -7,14 +7,14 @@ state={
 		1341 1690 1737 
 	}
 	history={
-		owner = CON
+		owner =  CSA
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			arms_factory = 2
 			air_base = 1
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 		victory_points = {
 			1737 40		# atlanta
 		}

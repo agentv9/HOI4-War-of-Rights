@@ -4,7 +4,7 @@ state={
 	name="STATE_23"
 
 	history={
-		owner = CON
+		owner =  CSA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
@@ -12,7 +12,7 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 		 
 		victory_points = {
 			6533 30 

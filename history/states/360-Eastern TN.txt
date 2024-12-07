@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = CON
+		owner =  CSA
 		1936.1.2 = {
 			 
 		}
@@ -23,7 +23,7 @@ state={
 			1648 5 #johnson city 
 		}
 		
-		add_core_of = CON
+		add_core_of =  CSA
 
 	}
 

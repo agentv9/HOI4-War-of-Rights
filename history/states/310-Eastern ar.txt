@@ -6,7 +6,7 @@ state={
 		steel=22.000
 	}
 	history={
-		owner = CON
+		owner =  CSA
 		1936.1.2 = {
 			 
 		}
@@ -18,7 +18,7 @@ state={
 				naval_base = 5
 			}
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 		victory_points = {
 			8092 2
 		}

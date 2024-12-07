@@ -4,7 +4,7 @@ state={
 	name="STATE_156"
 
 	history={
-		owner = CON
+		owner =  CSA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -15,7 +15,7 @@ state={
 			}
 
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 		1936.1.2 = {
 			 
 

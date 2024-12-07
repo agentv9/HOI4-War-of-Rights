@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = CON
+		owner =  CSA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -20,7 +20,7 @@ state={
 			}
 
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 	
 		victory_points = {
 			701 30 

@@ -8,7 +8,7 @@ state={
 	}
 	
 	history={
-		owner = CON
+		owner =  CSA
 		1936.1.2 = {
 			 
 		}
@@ -25,7 +25,7 @@ state={
 			3821 20 #knoxville 
 		}
 		
-		add_core_of = CON
+		add_core_of =  CSA
 	}
 	
 	provinces={

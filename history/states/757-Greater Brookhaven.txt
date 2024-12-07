@@ -5,11 +5,11 @@ state={
 		1137 5816 5823 6579 6581 6583 6585 
 	}
 	history = {
-		owner = CON
+		owner =  CSA
 		1936.1.2 = {
 			 
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 		 
 		buildings = {
 			infrastructure = 2

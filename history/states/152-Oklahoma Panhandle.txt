@@ -14,7 +14,7 @@ state={
 		1936.1.2 = {
 			 
 		}
-		add_claim_by = CON
+		add_claim_by =  CSA
 		victory_points = {
 			6141 7
 		}

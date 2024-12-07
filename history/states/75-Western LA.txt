@@ -5,13 +5,13 @@ state = {
 		oil = 6
 	}
 	history = {
-		owner = CON
+		owner =  CSA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 			arms_factory = 1
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 		victory_points = {
 			5960
 			20

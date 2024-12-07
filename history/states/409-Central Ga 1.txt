@@ -4,7 +4,7 @@ state={
 	name="STATE_409"
 
 	history={
-		owner = CON
+		owner =  CSA
 		1936.1.2 = {
 			 
 		}
@@ -13,7 +13,7 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 		
 		victory_points = {
 			1327 15 

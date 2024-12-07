@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = CON
+		owner =  CSA
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
@@ -19,7 +19,7 @@ state={
 		victory_points = {
 			4928 20 # el paso 
 		}
-		add_core_of = CON
+		add_core_of =  CSA
 
 		
 		1936.1.2 = {
