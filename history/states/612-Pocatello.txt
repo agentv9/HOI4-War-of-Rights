@@ -14,10 +14,7 @@ state={
 
 		}
 		add_core_of = UIN
-		add_core_of = POC
-		victory_points = {
-			86 7 
-		}
+		 
 		victory_points = {
 			8343 1
 		}

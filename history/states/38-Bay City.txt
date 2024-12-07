@@ -17,7 +17,7 @@ state={
 			}
 		}
 		add_core_of = UIN
-		add_core_of = MMG
+		
 		1936.1.2 = {
 			 
 		}

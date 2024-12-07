@@ -11,10 +11,7 @@ state={
 			}
 		}
 		add_core_of = BEM
-		add_core_of = PVC
-		1936.1.2 = {
-			owner = CAN
-		}
+		
 	}
 	provinces={
 		1032 1077 1121 1122 1141 2963 2996 3010 3034 

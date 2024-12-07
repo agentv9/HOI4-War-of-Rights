@@ -13,10 +13,7 @@ state={
 		}
 		add_core_of = BEM
 		add_claim_by = UIN
-		1936.1.2 = {
-			owner = CAN
-
-		}
+		
 		victory_points = {
 			3539 3 
 		}

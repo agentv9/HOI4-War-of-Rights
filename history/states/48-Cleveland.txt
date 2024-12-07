@@ -8,7 +8,7 @@ state={
 
 	history={
 		owner = UIN
-		add_core_of = CLE
+	
 		add_core_of = UIN
 		buildings = {
 			infrastructure = 5

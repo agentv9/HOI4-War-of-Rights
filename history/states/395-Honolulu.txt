@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = SHI
+		owner = BEM
 		1936.1.2 = {
 			 
 		}
@@ -22,7 +22,7 @@ state={
 			}
 
 		}
-		add_core_of = SHI
+		add_core_of = BEM
 		victory_points = {
 			173 25 
 		}

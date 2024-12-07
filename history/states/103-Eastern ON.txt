@@ -5,9 +5,7 @@ state={
 
 	history={
 		owner = BEM
-		1936.1.2 = {
-			owner = CAN
-		}
+		
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

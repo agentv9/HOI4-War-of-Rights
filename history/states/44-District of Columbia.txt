@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = WDC
+		owner = UIN
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 4
@@ -21,7 +21,7 @@ state={
 			}
 
 		}
-		add_core_of = WDC
+		add_core_of = UIN
 		victory_points = {
 			3421 50 
 		}

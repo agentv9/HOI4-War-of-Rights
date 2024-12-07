@@ -10,7 +10,7 @@ state={
 
 		}
 		add_core_of = CON
-		add_core_of = ORL
+	
 		victory_points = {
 			8793 9 
 		}

@@ -10,7 +10,7 @@ state={
 			 
 		}
 		add_core_of = UIN
-		add_core_of = MAR
+		 
 		buildings = {
 			industrial_complex = 1
 			arms_factory = 1

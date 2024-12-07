@@ -11,11 +11,7 @@ state={
 	history={
 		owner = MEX
 		add_core_of = MEX
-		add_core_of = MJA
-		1936.1.2 = {
-			owner = MEX
-
-		}
+		 
 		
 		buildings = {
 			infrastructure = 2

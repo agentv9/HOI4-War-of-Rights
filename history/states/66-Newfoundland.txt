@@ -25,7 +25,7 @@ state={
 			dockyard = 1
 		}
 		add_core_of = BEM
-		add_core_of = NFL
+	
 		victory_points = {
 			5539 3
 		}
@@ -36,9 +36,7 @@ state={
 			5461 3
 		}
 
-		1936.1.2 = {
-			owner = CAN
-		}
+		
 	
 	}
 

@@ -23,11 +23,7 @@ state={
 			 
 
 		}
-		add_building_construction = {
-			type = naval_base
-				province = 5104
-			level = 1
-		}
+	
 
 	}
 

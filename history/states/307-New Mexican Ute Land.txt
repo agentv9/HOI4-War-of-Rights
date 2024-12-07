@@ -14,7 +14,7 @@ state={
 		buildings = {
 			infrastructure = 0
 		}
-		add_core_of = UTE
+		 
 		add_core_of = UIN
 		add_claim_by = UIN
 	}

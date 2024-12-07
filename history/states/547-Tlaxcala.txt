@@ -5,7 +5,7 @@ state={
 
 	history={
 		owner = MEX
-		add_core_of = MTL
+		 
 		add_core_of = MEX
 		victory_points = {
 			444 40 

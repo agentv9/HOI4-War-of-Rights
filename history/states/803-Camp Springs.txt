@@ -3,11 +3,11 @@ state={
 	name="STATE_803"
 
 	history = {
-		owner = WDC
+		owner =  UIN
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = WDC
+		add_core_of =  UIN
 		add_core_of = UIN
 		1936.1.2 = {
 			 

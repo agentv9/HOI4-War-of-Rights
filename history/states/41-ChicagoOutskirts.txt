@@ -15,7 +15,7 @@ state={
 			dockyard = 1
 
 		}
-		add_core_of = CHI
+		
 		victory_points = {
 			3912 10 
 			

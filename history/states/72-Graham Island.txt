@@ -12,9 +12,7 @@ state={
 			}
 		}
 		add_core_of = BEM
-		1936.1.2 = {
-			owner = CAN
-		}
+		
 	}
 	provinces={
 		1419 1496 1560 1699 3136 

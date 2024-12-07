@@ -21,7 +21,7 @@ state={
 
 		}
 		add_core_of = CON
-		add_core_of = MIA
+	
 		victory_points = {
 			701 30 
 		}

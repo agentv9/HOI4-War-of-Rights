@@ -21,7 +21,7 @@ state={
 
 		}
 		add_core_of = UIN
-		add_core_of = LAA
+		
 		victory_points = {
 			6326 40 
 		}
