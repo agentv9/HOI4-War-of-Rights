@@ -7,13 +7,13 @@ state={
 	}
 
 	history={
-		owner = BEM
+		owner = ENG
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
 
 		}
-		add_core_of = BEM
+		add_core_of = ENG
 		
 		victory_points = {
 			3541 10 

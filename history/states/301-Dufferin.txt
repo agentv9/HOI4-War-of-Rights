@@ -4,13 +4,13 @@ state={
 	name="STATE_301"
 
 	history={
-		owner = BEM
+		owner = ENG
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 
 		}
-		add_core_of = BEM
+		add_core_of = ENG
 		1936.1.2 = {
 			 
 		}

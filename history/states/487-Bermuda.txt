@@ -6,8 +6,8 @@ state={
 		1268 5494 5495 5496 
 	}
 	history = {
-		owner = BEM
-		add_core_of = BEM
+		owner = ENG
+		add_core_of = ENG
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

@@ -4,7 +4,7 @@ state={
 	name="STATE_107"
 
 	history={
-		owner = BEM
+		owner = ENG
  
 		buildings = {
 			infrastructure = 2
@@ -12,7 +12,7 @@ state={
 			industrial_complex = 1
 			#no airports
 		}
-		add_core_of = BEM
+		add_core_of = ENG
 
 	}
 

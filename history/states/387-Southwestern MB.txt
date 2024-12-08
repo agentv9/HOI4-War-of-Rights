@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = BEM
+		owner = ENG
 		1936.1.2 = {
 			 
 		}
@@ -16,7 +16,7 @@ state={
 			industrial_complex = 2
 
 		}
-		add_core_of = BEM
+		add_core_of = ENG
 		victory_points = {
 			2023 5 
 		}

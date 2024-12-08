@@ -9,12 +9,12 @@ state={
 	}
 
 	history={
-		owner = BEM
+		owner = ENG
 		1936.1.2 = {
 			 
 
 		}
-		add_core_of = BEM
+		add_core_of = ENG
 		buildings = {
 			industrial_complex = 1
 			infrastructure = 2

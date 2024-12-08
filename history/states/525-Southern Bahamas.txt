@@ -9,11 +9,11 @@ state={
 		oil = 1
 	}
 	history = {
-		owner = BEM
+		owner = ENG
 		1936.1.2 = {
 			 
 		}
-		add_core_of = BEM
+		add_core_of = ENG
 		buildings = {
 			infrastructure = 1
 			561 = {

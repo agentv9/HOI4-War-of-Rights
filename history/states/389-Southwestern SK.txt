@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = BEM
+		owner = ENG
 		1936.1.2 = {
 			 
 		}
@@ -18,7 +18,7 @@ state={
 			
 
 		}
-		add_core_of = BEM
+		add_core_of = ENG
 		victory_points = {
 			1681 5
 		}
