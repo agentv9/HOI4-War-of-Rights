@@ -9,11 +9,11 @@ bookmarks = {
 		
 		"CSA"={
 			ideology = fascism
-			history = "OTHER_GATHERING_STORM_DESC"
+			history = "CSA_WOR_DESC"
 		}
 		"UIN"={
 			ideology = democratic
-			history = "OTHER_GATHERING_STORM_DESC"
+			history = "UIN_WOR_DESC"
 		}
 		
 

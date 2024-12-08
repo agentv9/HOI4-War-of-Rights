@@ -164,15 +164,7 @@ technologies = {
 		ai_will_do = {
 			factor = 1
 			
-			modifier = {
-				factor = 2
-				tag = USA
-			}
-			
-			modifier = {
-				factor = 2
-				tag = JAP
-			}
+		
 
 			modifier = {
 				factor = 0
@@ -212,10 +204,7 @@ technologies = {
 			name = air_techs_folder
 			position = { x = 0 y = 6 }
 		}
-		folder = {
-			name = secret_weapons_folder
-			position = { x = 6 y = 8 }
-		}
+		
 		
 		categories = {
 			light_air
@@ -237,11 +226,7 @@ technologies = {
 				is_major = yes
 			}
 
-			modifier = {
-				factor = 0
-				original_tag = GER
-				date < "1905.1.1"
-			}
+			
 
 			modifier = {
 				factor = 1.2
@@ -283,23 +268,7 @@ technologies = {
 		ai_will_do = {
 			factor = 1
 			
-			modifier = {
-				factor = 2
-				tag = USA
-			}
-			
-			modifier = {
-				factor = 2.5
-				tag = JAP
-			}
-
-			modifier = {
-				factor = 10
-				AND = {
-					is_historical_focus_on = yes
-					tag = JAP
-				}
-			}
+		
 			modifier = {
 				factor = 1.5
 				date > "1905.6.1"
@@ -403,27 +372,8 @@ technologies = {
 		ai_will_do = {
 			factor = 1
 			
-			modifier = {
-				factor = 2
-				tag = USA
-			}
-			
-			modifier = {
-				factor = 2
-				tag = JAP
-			}
-			modifier = {
-				factor = 1.5
-				date > "1909.1.1"
-			}
-			modifier = {
-				factor = 2.5
-				has_navy_size = { type = carrier size > 3 }# if nation has carriers, more likely
-			}
-			modifier = {
-				factor = 0
-				has_navy_size = { type = carrier size < 1 }# if nation has no carriers, don't bother
-			}
+		
+		
 		}
 	}
 	
@@ -463,10 +413,7 @@ technologies = {
 				is_major = yes
 				factor = 2
 			}
-			modifier = {
-				tag = GER
-				factor = 2
-			}
+			
 		}
 	}
 	
@@ -531,20 +478,7 @@ technologies = {
 		ai_will_do = {
 			factor = 1
 			
-			modifier = {
-				factor = 2
-				tag = GER
-			}
-			
-			modifier = {
-				factor = 100
-				tag = SOV
-			}
-			modifier = {
-				has_war_with = GER
-				tag = SOV
-				factor = 2
-			}
+	
 
 		}
 	}
@@ -574,28 +508,7 @@ technologies = {
 					is_researching_technology = CAS2
 				}
 			}
-			modifier = {
-				factor = 2
-				OR = {
-					tag = USA
-					tag = JAP
-				}
-			}
-			modifier = {
-				factor = 1.5
-				OR = {
-					has_war_with = USA
-					has_war_with = JAP
-				}
-			}
-			modifier = {
-				factor = 2
-				has_navy_size = { type = carrier size > 0 }# if nation has carriers, more likely
-			}
-			modifier = {
-				factor = 0
-				has_navy_size = { type = carrier size < 1 }# if nation has no carriers, don't bother
-			}
+			
 		}
 	}
 	
@@ -633,30 +546,7 @@ technologies = {
 		ai_will_do = {
 			factor = 1
 			
-			modifier = {
-				factor = 2
-				tag = GER
-			}
-			modifier = {
-				has_deployed_air_force_size = {
-					size > 400
-					type = cas
-				}
-				factor = 3
-			}
-
-			modifier = {
-				factor = 2
-				OR = {
-					has_war_with = GER
-					has_war_with = SOV
-				}
-			}
 			
-			modifier = {
-				factor = 3
-				tag = SOV
-			}
 		}
 	}
 	
@@ -685,28 +575,7 @@ technologies = {
 					is_researching_technology = CAS3
 				}
 			}
-			modifier = {
-				factor = 2
-				OR = {
-					tag = USA
-					tag = JAP
-				}
-			}
-			modifier = {
-				factor = 1.5
-				OR = {
-					has_war_with = USA
-					has_war_with = JAP
-				}
-			}
-			modifier = {
-				factor = 2
-				has_navy_size = { type = carrier size > 0 }# if nation has carriers, more likely
-			}
-			modifier = {
-				factor = 0
-				has_navy_size = { type = carrier size < 1 }# if nation has no carriers, don't bother
-			}
+			
 		}
 	}
 	
@@ -743,28 +612,6 @@ technologies = {
 		ai_will_do = {
 			factor = 1
 			
-			modifier = {
-				factor = 2
-				tag = GER
-			}
-			modifier = {
-				has_deployed_air_force_size = {
-					size > 500
-					type = cas
-				}
-				factor = 3
-			}
-			modifier = {
-				factor = 2
-				OR = {
-					has_war_with = GER
-					has_war_with = SOV
-				}
-			}
-			modifier = {
-				factor = 2
-				tag = SOV
-			}
 		}
 	}
 	

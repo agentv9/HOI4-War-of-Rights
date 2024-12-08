@@ -10,7 +10,7 @@ state={
         add_core_of = SPA
 		buildings = {
 			infrastructure = 1
-			air_base = 2
+			
 			1374 = {
 				naval_base = 4
 			}

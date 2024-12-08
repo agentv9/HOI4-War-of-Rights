@@ -18,7 +18,7 @@ state={
 			arms_factory = 2
 			fuel_silo = 1
 			#dockyard = 2 ???????
-			air_base = 4
+			
 		}
 		victory_points = {
 			3974 25

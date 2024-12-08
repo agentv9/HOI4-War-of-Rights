@@ -1,0 +1,14 @@
+characters = {
+    CSA_Jefferson_Davis = {
+        name = CSA_Jefferson_Davis
+        portraits = {
+            civilian = {
+                large = GFX_CSA_Jefferson_Davis
+            }
+        }
+        country_leader = {
+            ideology = fascism_ideology
+         
+        }
+    }
+}

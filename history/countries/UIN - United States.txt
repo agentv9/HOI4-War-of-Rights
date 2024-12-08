@@ -5,6 +5,8 @@ set_stability = 0.65
 set_war_support = 0.8
 set_oob = "standard_templates"
 
+recruit_character = UIN_Abraham_Lincoln
+
 set_politics = {
 	ruling_party = democratic
 	last_election = "1861.3.4"

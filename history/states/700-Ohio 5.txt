@@ -13,7 +13,7 @@ state = {
         # add_core_of = DAY
         buildings = {
             infrastructure = 2
-			air_base = 4
+			
         }
     }
     manpower = 78664

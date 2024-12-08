@@ -10,7 +10,7 @@ state={
 		owner = BEM
 		buildings = {
 			infrastructure = 1
-			air_base = 4
+			
 			3572 = {
 				naval_base = 1
 

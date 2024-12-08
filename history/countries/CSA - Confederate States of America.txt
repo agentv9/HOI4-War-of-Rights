@@ -5,6 +5,8 @@ set_stability = 0.65
 set_war_support = 0.8
 set_oob = "standard_templates"
 
+recruit_character = CSA_Jefferson_Davis
+
 set_politics = {
 	ruling_party = fascism
 	last_election = "1860.12.20"

@@ -1,0 +1,10 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_UIN_Abraham_Lincoln
+        texturefile = gfx/leaders/UIN/Portrait_UIN_Abraham.dds
+    }
+	spriteType = {
+        name = GFX_CSA_Jefferson_Davis
+        texturefile = gfx/leaders/CSA/Portrait_CSA_Jefferson_Davis.dds
+    }
+}

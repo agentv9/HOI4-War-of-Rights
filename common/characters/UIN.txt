@@ -1,0 +1,14 @@
+characters = {
+    UIN_Abraham_Lincoln = {
+        name = UIN_Abraham_Lincoln
+        portraits = {
+            civilian = {
+                large = GFX_UIN_Abraham_Lincoln
+            }
+        }
+        country_leader = {
+            ideology = conservatism
+         
+        }
+    }
+}

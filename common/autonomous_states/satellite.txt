@@ -45,6 +45,10 @@ autonomy_state = {
 		}
 		has_government = fascism
 		if = {
+			limit = {
+				
+			}
 		}
+	}
 	}
 }

@@ -5,7 +5,7 @@ state={
 		owner = BEM
 		buildings = {
 			infrastructure = 1
-			air_base = 2
+			
 		}
 		add_core_of = BEM
 		victory_points = {
